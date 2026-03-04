@@ -51,11 +51,13 @@ A cozy, satisfying 3D puzzle game focusing on bright colors, simple geometry, an
 
 <p align="center">
 <!-- REPLACE THIS LINK WITH A SCREENSHOT OR GIF OF YOUR GAME -->
-<img src="https://github.com/fasihzawar/unity-developer/blob/main/MainHUDReference.jpg" alt="Warrior Evolution Gameplay" width="800"/>
-  <img src="https://github.com/fasihzawar/unity-developer/blob/main/MainMenu.jpg" alt="Warrior Evolution Gameplay" width="800"/>
-  <img src="https://github.com/fasihzawar/unity-developer/blob/main/ShopScreen_V1.jpg" alt="Warrior Evolution Gameplay" width="800"/>
-  <img src="https://github.com/fasihzawar/unity-developer/blob/main/YouLoseReference.jpg" alt="Warrior Evolution Gameplay" width="800"/>
-  <img src="https://github.com/fasihzawar/unity-developer/blob/main/refernce.jpeg" alt="Warrior Evolution Gameplay" width="800"/>
+  <img src="https://github.com/fasihzawar/unity-developer/blob/main/android%201.png" alt="Warrior Evolution Gameplay" width="800"/>
+  <img src="https://github.com/fasihzawar/unity-developer/blob/main/android%202.png" alt="Warrior Evolution Gameplay" width="800"/>
+  <img src="https://github.com/fasihzawar/unity-developer/blob/main/android%203.png" alt="Warrior Evolution Gameplay" width="800"/>
+  <img src="https://github.com/fasihzawar/unity-developer/blob/main/android%204.png" alt="Warrior Evolution Gameplay" width="800"/>
+ <img src="https://github.com/fasihzawar/unity-developer/blob/main/android%205.png" alt="Warrior Evolution Gameplay" width="800"/>
+  <img src="https://github.com/fasihzawar/unity-developer/blob/main/android%206.png" alt="Warrior Evolution Gameplay" width="800"/>
+ <img src="https://github.com/fasihzawar/unity-developer/blob/main/android%207.png" alt="Warrior Evolution Gameplay" width="800"/>
 </p>
 
 <h3>Key Features:</h3>
