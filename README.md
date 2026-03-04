@@ -1,86 +1,81 @@
-#Unity Game Developer Portfolio
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 
-Hallo!! Welcome to my portfolio 👋
-I am a passionate Game Developer who loves to write clean, optimized code using Chttps://www.google.com/search?q=%23 and the Unity Game Engine. I have [Insert Years] years of working experience in game development, spanning across mobile, PC, and console platforms.
+<h3 align="center">Passionate Game Developer & Designer | Unity & C# Specialist</h3>
 
-I have hands-on experience working with Component-Based Architectures, MVC/MVP for UI, and Data-Oriented Design (ECS). I have a deep understanding of Game Programming Patterns including Object Pooling, Finite State Machines (FSM), Observer, and Singleton. Some of the Design Principles I rigorously implement in my gameplay systems are mentioned below:
+<p align="center">
+I am a dedicated game developer focused on crafting engaging mechanics, intuitive UI/UX, and satisfying gameplay loops. From expansive 3D strategy games to cozy, tactile puzzles, I love bringing ideas to life on mobile and PC.
+</p>
 
-SOLID
+<p align="center">
+<a href="mailto:your.email@example.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgmail" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" alt="LinkedIn" />
+</a>
+<a href="https://www.google.com/search?q=https://yourusername.itch.io/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Itch.io-Play_My_Games-fa5c5c%3Fstyle%3Dfor-the-badge%26logo%3Ditch.io" alt="Itch.io" />
+</a>
+</p>
 
-DRY
+🛠️ Skills & Technologies
 
-KISS
+Engines: Unity 3D & 2D
 
-The Sewing Kit (Button Unravel)
+Languages: C#, Markdown
 
-A cozy, satisfying puzzle game focusing on bright colors and simple geometry. The player opens a grandmother's sewing box to find spare buttons tangled together by loose threads. The objective is to organize the kit by rotating a 3D cluster of buttons and strategically matching connected pairs without intersecting other threads.
+Platforms: Mobile (iOS, Android), PC
 
-Technology Stack
+Game Design: Level Design, Combat Balancing, In-Game Economy, UI/UX Design, Progression Systems
 
-Unity 3D
+🎮 Featured Projects
 
-Chttps://www.google.com/search?q=%23
+⚔️ Warrior Evolution
 
-Unity Ads
+Role: Lead Game Developer / Designer | Platform: iOS & Android | Engine: Unity (C#)
 
-Firebase Analytics
+Warrior Evolution is a 3D side-scrolling Real-Time Strategy (RTS) and Tower Defense game where players manage resources to build an army and destroy the enemy base. The core mechanic features an "Age Progression" system, spanning 9 distinct historical and futuristic eras.
 
-Unity UI
+<p align="center">
+<!-- REPLACE THIS LINK WITH A SCREENSHOT OR GIF OF YOUR GAME -->
+<img src="https://www.google.com/search?q=https://via.placeholder.com/800x400.png%3Ftext%3DWarrior%2BEvolution%2BGameplay%2BScreenshot/GIF" alt="Warrior Evolution Gameplay" width="800"/>
+</p>
 
-Game Architecture
+Key Features:
 
-Component-Based Architecture
+Epic Evolutionary Scope: Players progress from the Ice Age (mammoths & cavemen) to the Alien Age (xenomorphs & symbiotes), with units and base aesthetics evolving dynamically.
 
-Object Pooling (for dynamic button and thread spawning)
+Deep Meta-Game & Re-balanced Economy: Complex unit balancing involving 4 unit types per age (Melee, Ranged, Tank, Boss) with scaling costs and unique special abilities (e.g., AoE damage, healing, invisibility).
 
-Observer Pattern (for handling UI and game state changes)
+Tactile UI/UX: A satisfying card-based slider system at the bottom of the screen allows for quick and intuitive deployment of units into the expansive 3D pannable battlefield.
 
-Event-Driven Level Progression
+Scalable World Progression: Designed a robust progression system across 9 distinct worlds, each containing 10 stages and a major transitionary boss battle.
 
-My Role
+🧵 The Sewing Kit (Button Unravel)
 
-Solo Game Developer: I developed this game completely from scratch, handling every aspect of production.
+Role: Game Developer / Gameplay Programmer | Platform: Mobile | Genre: Cozy Puzzle
 
-Gameplay & Mechanics: Programmed the core 3D cluster rotation, physics interactions, and the path-blocking detection logic when threads intersect. Developed specialized power-ups (The Scissor, Thread Glow, Loose Shake) and varied game modes (Clear the Knot, Move Master, Color Rush, Timed Stitch).
+A cozy, satisfying 3D puzzle game focusing on bright colors, simple geometry, and tactile physics. The player must untangle a grandma's chaotic sewing box by rotating clusters of buttons and pulling connected pairs together without hitting obstacles.
 
-Assets & UI: Created and integrated all visual assets, including the 3D buttons (round, square, hexagon), thread connectors, and environmental textures. Built the complete UI system.
+<p align="center">
+<!-- REPLACE THIS LINK WITH A SCREENSHOT OR GIF OF YOUR GAME -->
+<img src="https://www.google.com/search?q=https://via.placeholder.com/800x400.png%3Ftext%3DThe%2BSewing%2BKit%2BGameplay%2BScreenshot/GIF" alt="The Sewing Kit Gameplay" width="800"/>
+</p>
 
-LiveOps & Monetization: Successfully integrated Unity Ads for monetization and implemented Firebase Analytics to track player engagement and level completion rates.
+Key Features:
 
-Warrior Evolution
+Satisfying Mechanics: Custom physics interactions where buttons "clack" against blockers if a path is obstructed, or spin and vanish into a pincushion upon a successful match.
 
-Warrior Evolution is a 3D side-scrolling Real-Time Strategy (RTS) and Tower Defense game. Players manage resources to build an army, overwhelm their opponent, and destroy the enemy base. The core feature is a deep "Age Progression" system, allowing players to advance their civilization through 9 distinct historical eras (from the Ice Age to a futuristic Alien age), unlocking powerful new units and visual upgrades.
+Dynamic Puzzles: Complex rotational knot generation using various 2-hole and 4-hole button shapes connected by fibrous threads.
 
-Technology Stack
+Multiple Game Modes: Engineered various objectives including Move Master (tap limits), Color Rush (priority targeting), and Timed Stitch (speed runs).
 
-Unity 3D
+Power-Up System: Programmed special abilities like "The Scissor" (auto-match regardless of obstacles) and "Thread Glow" (highlighting safe pairs) to enhance the player experience.
 
-Chttps://www.google.com/search?q=%23
+📈 GitHub Stats
 
-Unity IAP (In-App Purchases)
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue%26theme%3Dradical" alt="GitHub Stats" />
+</p>
 
-Unity Ads (Rewarded Video)
-
-Firebase Analytics
-
-Scriptable Objects
-
-Game Architecture
-
-MVC (Model-View-Controller) for UI & Card Deployment systems
-
-Factory Pattern (for deploying varied units across 9 different eras)
-
-Object Pooling (crucial for optimizing massive, continuous unit battles)
-
-Data-Driven Design using Scriptable Objects (for managing extensive unit stats, upgrade costs, and boss data)
-
-My Role
-
-Solo Game Developer: I built the entire project from the ground up, serving as the sole programmer, technical artist, and systems designer.
-
-Core Systems: Engineered the continuous panning 3D battlefield and auto-battling AI for over 30 unique units and bosses. Programmed the complex in-battle economy (passive/active gold generation) and the tactile, card-based deployment slider.
-
-Progression & Balancing: Designed and implemented the comprehensive 9-age progression system, utilizing Scriptable Objects to easily tweak and balance unit HP, Damage, Attack Speed, and costs across 90+ stages.
-
-Assets & Monetization: Sourced, styled, and integrated all 3D stylized realism assets. Implemented a robust monetization strategy including In-App Purchases (premium currency/skins) and Rewarded Ads to double player rewards, alongside Firebase for tracking player retention and economy health.
+Thank you for checking out my portfolio! Feel free to reach out if you'd like to collaborate or discuss game design.
