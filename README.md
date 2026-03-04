@@ -8,7 +8,6 @@ I am a dedicated game developer focused on crafting engaging mechanics, intuitiv
 
 <p align="center">
 <a href="mailto:asifnawaz781@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgmail" alt="Email" />
 </a>
 <a href="https://linkedin.com/in/yourprofile">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" alt="LinkedIn" />
