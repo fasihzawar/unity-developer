@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Asif Nawaz 👋</h1>
 
 <h3 align="center">Passionate Game Developer & Designer | Unity & C# Specialist</h3>
 
@@ -7,7 +7,7 @@ I am a dedicated game developer focused on crafting engaging mechanics, intuitiv
 </p>
 
 <p align="center">
-<a href="mailto:your.email@example.com">
+<a href="mailto:asifnawaz781@gmail.com">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgmail" alt="Email" />
 </a>
 <a href="https://linkedin.com/in/yourprofile">
