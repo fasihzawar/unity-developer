@@ -33,7 +33,7 @@ Warrior Evolution is a 3D side-scrolling Real-Time Strategy (RTS) and Tower Defe
   <img src="https://github.com/fasihzawar/unity-developer/blob/main/refernce.jpeg" alt="Warrior Evolution Gameplay" width="800"/>
 </p>
 
-Key Features:
+<h3>Key Features:</h3>
 
 Epic Evolutionary Scope: Players progress from the Ice Age (mammoths & cavemen) to the Alien Age (xenomorphs & symbiotes), with units and base aesthetics evolving dynamically.
 
@@ -43,18 +43,22 @@ Tactile UI/UX: A satisfying card-based slider system at the bottom of the screen
 
 Scalable World Progression: Designed a robust progression system across 9 distinct worlds, each containing 10 stages and a major transitionary boss battle.
 
-🧵 The Sewing Kit (Button Unravel)
+<h2>🧵 The Sewing Kit (Button Unravel)</h2>
 
-Role: Game Developer / Gameplay Programmer | Platform: Mobile | Genre: Cozy Puzzle
+<h3>Role:</h3> Game Developer / Gameplay Programmer | Platform: Mobile | Genre: Cozy Puzzle
 
 A cozy, satisfying 3D puzzle game focusing on bright colors, simple geometry, and tactile physics. The player must untangle a grandma's chaotic sewing box by rotating clusters of buttons and pulling connected pairs together without hitting obstacles.
 
 <p align="center">
 <!-- REPLACE THIS LINK WITH A SCREENSHOT OR GIF OF YOUR GAME -->
-<img src="https://www.google.com/search?q=https://via.placeholder.com/800x400.png%3Ftext%3DThe%2BSewing%2BKit%2BGameplay%2BScreenshot/GIF" alt="The Sewing Kit Gameplay" width="800"/>
+<img src="https://github.com/fasihzawar/unity-developer/blob/main/MainHUDReference.jpg" alt="Warrior Evolution Gameplay" width="800"/>
+  <img src="https://github.com/fasihzawar/unity-developer/blob/main/MainMenu.jpg" alt="Warrior Evolution Gameplay" width="800"/>
+  <img src="https://github.com/fasihzawar/unity-developer/blob/main/ShopScreen_V1.jpg" alt="Warrior Evolution Gameplay" width="800"/>
+  <img src="https://github.com/fasihzawar/unity-developer/blob/main/YouLoseReference.jpg" alt="Warrior Evolution Gameplay" width="800"/>
+  <img src="https://github.com/fasihzawar/unity-developer/blob/main/refernce.jpeg" alt="Warrior Evolution Gameplay" width="800"/>
 </p>
 
-Key Features:
+<h3>Key Features:</h3>
 
 Satisfying Mechanics: Custom physics interactions where buttons "clack" against blockers if a path is obstructed, or spin and vanish into a pincushion upon a successful match.
 
@@ -64,10 +68,5 @@ Multiple Game Modes: Engineered various objectives including Move Master (tap li
 
 Power-Up System: Programmed special abilities like "The Scissor" (auto-match regardless of obstacles) and "Thread Glow" (highlighting safe pairs) to enhance the player experience.
 
-📈 GitHub Stats
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue%26theme%3Dradical" alt="GitHub Stats" />
-</p>
 
 Thank you for checking out my portfolio! Feel free to reach out if you'd like to collaborate or discuss game design.
