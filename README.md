@@ -6,38 +6,31 @@
 I am a dedicated game developer focused on crafting engaging mechanics, intuitive UI/UX, and satisfying gameplay loops. From expansive 3D strategy games to cozy, tactile puzzles, I love bringing ideas to life on mobile and PC.
 </p>
 
-<p align="center">
-<a href="mailto:asifnawaz781@gmail.com">
-</a>
-<a href="https://linkedin.com/in/yourprofile">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" alt="LinkedIn" />
-</a>
-<a href="https://www.google.com/search?q=https://yourusername.itch.io/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Itch.io-Play_My_Games-fa5c5c%3Fstyle%3Dfor-the-badge%26logo%3Ditch.io" alt="Itch.io" />
-</a>
-</p>
-
 🛠️ Skills & Technologies
 
-Engines: Unity 3D & 2D
+  * Engines: Unity 3D & 2D
 
-Languages: C#, Markdown
+  * Languages: C#, Markdown
 
-Platforms: Mobile (iOS, Android), PC
+  * Platforms: Mobile (iOS, Android), PC
 
-Game Design: Level Design, Combat Balancing, In-Game Economy, UI/UX Design, Progression Systems
+  *Game Design: Level Design, Combat Balancing, In-Game Economy, UI/UX Design, Progression Systems
 
-🎮 Featured Projects
+<h1>🎮 Featured Projects</h1>
 
-⚔️ Warrior Evolution
+<h1>⚔️ Warrior Evolution</h1>
 
-Role: Lead Game Developer / Designer | Platform: iOS & Android | Engine: Unity (C#)
+<h1>Role:</h1> Lead Game Developer / Designer | Platform: iOS & Android | Engine: Unity (C#)
 
 Warrior Evolution is a 3D side-scrolling Real-Time Strategy (RTS) and Tower Defense game where players manage resources to build an army and destroy the enemy base. The core mechanic features an "Age Progression" system, spanning 9 distinct historical and futuristic eras.
 
 <p align="center">
 <!-- REPLACE THIS LINK WITH A SCREENSHOT OR GIF OF YOUR GAME -->
-<img src="https://www.google.com/search?q=https://via.placeholder.com/800x400.png%3Ftext%3DWarrior%2BEvolution%2BGameplay%2BScreenshot/GIF" alt="Warrior Evolution Gameplay" width="800"/>
+<img src="https://github.com/fasihzawar/unity-developer/blob/main/MainHUDReference.jpg" alt="Warrior Evolution Gameplay" width="800"/>
+  <img src="https://github.com/fasihzawar/unity-developer/blob/main/MainMenu.jpg" alt="Warrior Evolution Gameplay" width="800"/>
+  <img src="https://github.com/fasihzawar/unity-developer/blob/main/ShopScreen_V1.jpg" alt="Warrior Evolution Gameplay" width="800"/>
+  <img src="https://github.com/fasihzawar/unity-developer/blob/main/YouLoseReference.jpg" alt="Warrior Evolution Gameplay" width="800"/>
+  <img src="https://github.com/fasihzawar/unity-developer/blob/main/refernce.jpeg" alt="Warrior Evolution Gameplay" width="800"/>
 </p>
 
 Key Features:
