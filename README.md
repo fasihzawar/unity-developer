@@ -18,9 +18,9 @@ I am a dedicated game developer focused on crafting engaging mechanics, intuitiv
 
 <h1>🎮 Featured Projects</h1>
 
-<h1>⚔️ Warrior Evolution</h1>
+<h2>⚔️ Warrior Evolution</h2>
 
-<h1>Role:</h1> Lead Game Developer / Designer | Platform: iOS & Android | Engine: Unity (C#)
+<h3>Role:</h3> Lead Game Developer / Designer | Platform: iOS & Android | Engine: Unity (C#)
 
 Warrior Evolution is a 3D side-scrolling Real-Time Strategy (RTS) and Tower Defense game where players manage resources to build an army and destroy the enemy base. The core mechanic features an "Age Progression" system, spanning 9 distinct historical and futuristic eras.
 
