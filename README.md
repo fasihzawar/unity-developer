@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Asif Nawaz 👋</h1>
+<h1 align="center">Hi there, I'm Fasih Zawar 👋</h1>
 
 <h3 align="center">Passionate Game Developer & Designer | Unity & C# Specialist</h3>
 
